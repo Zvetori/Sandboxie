@@ -9,7 +9,7 @@ MsgSbieDebug
 MsgSbieRelease
 Sandboxie/msgs/Text-English-1033.txt
 *.mc
-
+.zvetori
 # User-specific files
 *.rsuser
 *.suo
